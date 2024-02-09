@@ -1,0 +1,13 @@
+dbtlearn1:
+  outputs:
+    dev:
+      account: your_snowflake_account
+      database: AIRBNB
+      password: your_password
+      role: transform
+      schema: DEV
+      threads: 1
+      type: snowflake
+      user: dbt
+      warehouse: COMPUTE_WH
+  target: dev
