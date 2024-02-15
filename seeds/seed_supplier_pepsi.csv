@@ -1,0 +1,4 @@
+supplier_id,supplier_name,contact_name,contact_email,phone_number,address,city,country
+301,Supplier Pepsi X,Jason Smith,Jason@example.com,123-456-7890,123 Main St,Anytown,USA
+302,Supplier Pepsi Y,June #,June@example.com,987-654-3210,456 Oak St,Anycity,USA
+303,Supplier Pepsi Z,Mc John,John@example.com,555-555-5555,789 Elm St,Anystate,USA

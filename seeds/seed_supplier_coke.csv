@@ -1,0 +1,4 @@
+supplier_id,supplier_name,contact_name,contact_email,phone_number,address,city,country
+201,Supplier Coke A,John #,johndoe@example.com,123-456-7890,123 Main St,Anytown,USA
+202,Supplier Coke B,Jane Smith,janesmith@example.com,987-654-3210,456 Oak St,Anycity,USA
+203,Supplier Coke C,Bob Johnson,bobjohnson@example.com,555-555-5555,789 Elm St,Anystate,USA

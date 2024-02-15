@@ -41,3 +41,6 @@ models:
       +materialized: table
     src:
       +materialized: ephemeral
+
+vars:
+  seed_supplier_name: 'seed_supplier_pepsi'
